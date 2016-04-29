@@ -24,13 +24,6 @@
                                     <action selector="show:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6S2-EQ-Oro"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9a9-IG-a1a">
-                                <rect key="frame" x="17" y="85" width="30" height="30"/>
-                                <state key="normal" title="hide"/>
-                                <connections>
-                                    <action selector="hide:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rC3-TH-eiS"/>
-                                </connections>
-                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>

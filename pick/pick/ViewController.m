@@ -33,8 +33,7 @@
     pick.dataSourse = arr;
     [pick show];
 }
-- (IBAction)hide:(id)sender {
-}
+
 
 - (void)pickViewDidSeleted:(LFPickValue *)value{
     NSLog(@"%@-----%@",value.title,value.code);
